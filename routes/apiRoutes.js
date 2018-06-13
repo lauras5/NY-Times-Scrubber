@@ -1,5 +1,5 @@
 var Router = require('express').Router();
-var db = require('../models');
+var db = require('../models/articleModel.js');
 
 // gets all articles
 Router.get('/api/articles', (req, res) => {

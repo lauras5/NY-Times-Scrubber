@@ -22,4 +22,4 @@ var articlemodel = new Schema ({
 
 var Article = mongoose.model('Article', articlemodel);
 
-module.exports = Article
+module.exports = Article;

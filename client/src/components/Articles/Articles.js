@@ -8,10 +8,10 @@ const Articles = props => {
             <hr/>
             <ul>
                 <li>this is an article</li>
-                
             </ul>
         </Fragment>
     )
 }
+
 export default Articles;
 
